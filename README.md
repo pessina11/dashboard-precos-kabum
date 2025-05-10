@@ -20,7 +20,7 @@ Este projeto realiza a **coleta automatizada de preços** de produtos na loja [K
 
 ## 📸 Exemplo de Visualização
 
-![exemplo](exemplo_grafico.png/exemplo_grafico.png)
+![exemplo](exemplo_grafico.png)
 
 ## 📁 Organização dos Arquivos
 
