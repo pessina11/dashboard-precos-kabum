@@ -26,7 +26,7 @@ Dashboard-Inteligente-Precos-KaBuM/
 │
 ├── Dashboard_Inteligente_Preços_KaBuM_FINAL.ipynb   # Notebook completo e funcional
 ├── exemplo_grafico.png                              # Exemplo visual de gráfico gerado
-├── dados_kabum.csv                                  # (opcional) Exemplo de CSV com preços
+├── dados_kabum.csv                                  # Exemplo de CSV com preços
 └── README.md                                        # Este arquivo
 ```
 
