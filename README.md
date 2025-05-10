@@ -25,8 +25,8 @@ Este projeto realiza a **coleta automatizada de preços** de produtos na loja [K
 Dashboard-Inteligente-Precos-KaBuM/
 │
 ├── Dashboard_Inteligente_Preços_KaBuM_FINAL.ipynb   # Notebook completo e funcional
-├── dados_kabum.csv                                  # Exemplo visual de gráfico gerado
-├── exemplo_grafico.png                              # Exemplo de CSV com preços
+├── dados_kabum.csv                                  # Exemplo de CSV com preços
+├── exemplo_grafico.png                              # Exemplo visual de gráfico gerado
 └── README.md                                        # Este arquivo
 ```
 
