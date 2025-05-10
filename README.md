@@ -18,9 +18,6 @@ Este projeto realiza a **coleta automatizada de preços** de produtos na loja [K
 - Plotly
 - Google Colab
 
-## 📸 Exemplo de Visualização
-
-![exemplo](/exemplo grafico.png)
 
 ## 📁 Organização dos Arquivos
 
