@@ -20,7 +20,7 @@ Este projeto realiza a **coleta automatizada de preços** de produtos na loja [K
 
 ## 📸 Exemplo de Visualização
 
-![exemplo](Dashboard-Inteligente-Precos-KaBuM/exemplo grafico.png)
+![exemplo](Dashboard_Inteligente_Preços_KaBuM_FINAL/exemplo grafico.png)
 
 ## 📁 Organização dos Arquivos
 
